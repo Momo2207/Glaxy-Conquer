@@ -102,7 +102,7 @@
     explosion_small:    'assets/explosion_small.png',
     explosion_medium:   'assets/explosion_medium.png',
     explosion_big:      'assets/explosion_big.png',
-    hb_full:            'assets/OneTenth_Healthbar_full.png',
+    hb_full:            'assets/OneTenth_Healthbar_Full.png',
     hb_empty:           'assets/OneTenth_Healthbar_empty.png',
     plasma_torpedo:     'assets/plasma_torpedo.png',
     torpedo_pickup:     'assets/torpedo_pickup_icon.png'
